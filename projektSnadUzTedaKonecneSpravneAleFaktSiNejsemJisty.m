@@ -1,6 +1,6 @@
 clc; clear all; close all;
 
-
+%VUT ID 164212
 
 B = 0.3; %magneticka indukce, musime zvolit [T]
 E = 40000; %intenzita elektrostatickeho pole, musime zvolit [V/m]
